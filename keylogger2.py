@@ -23,7 +23,7 @@ screenshot_information = "screenshot.png"
 keys_information = "key_log.txt"
 extend = "\\"
 
-file_path = "H:\College\Mini-Project"   # "C:\\Users\\Public\\Roaming"
+file_path = "C:\\Users\\Public\\Roaming"   # Enter path 
 
 # Time Controls
 time_iteration = 15 # 7200 # 2 hours
